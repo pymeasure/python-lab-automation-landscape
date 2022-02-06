@@ -1,8 +1,5 @@
-# Overview table
-
 <!-- Second-level headers: -->
 <!-- UNIVERSAL INSTRUMENTATION CONTROL  IN PYTHON |  |  |  |  |  |  | Maturity |  |  | Scope |  |  | Features | Instrument drivers  |  |  |  | Procedures | GUI | Remarks | Collected by -->
-
 
 Name | Description | Repo URL | Docs URL | date latest commit | License | Application focus (if any) | Version | nr. of commits/years age | Test framework(nr tests) | instrument/hardware communication? | running predefined procedures? | GUI/presentation layer? | Units | Instrument types (messagebased, register map, DLL, COM,..) | Transport layers | Abstract instrument classes | Overall nr of drivers | definition (.py, DSL, markup) | GUI technology | Remarks | Collected by
  --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---  | --- | --- | --- | --- | --- | --- | ---
@@ -48,6 +45,3 @@ home assistant | Open source home automation that puts local control and privacy
 pyLabLib | device control and experiment automation | [repo](https://github.com/AlexShkarin/pyLabLib) | [docs](https://pylablib.readthedocs.io/en/latest/) | ![Commit activity](https://img.shields.io/github/last-commit/AlexShkarin/pyLabLib.svg?maxAge=300) | GPL-3.0 |  |  |  |  | y |  |  |  |  |  |  |  |  |  |  |
 pylabinstrument | N/A | [repo](https://github.com/psklight/pylabinstrument) |  | ![Commit activity](https://img.shields.io/github/last-commit/psklight/pylabinstrument.svg?maxAge=300) | N/A | mostly optics |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 pyLabInstruments | wrapper around instruments controlled via usb or serial interface | [repo](https://github.com/MarkHedleyJones/pyLabInstruments) |  | ![Commit activity](https://img.shields.io/github/last-commit/MarkHedleyJones/pylabInstruments.svg?maxAge=300) | N/A | Agilent 3320A + Tektronix TPS2024B |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-
-Note: The original version of the table lived at https://ethercalc.net/1anmq248ktu6
