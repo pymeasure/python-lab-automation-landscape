@@ -1,0 +1,18 @@
+name: ITOM
+description: open source software suite for operating measurement systems, laboratory automation and data evaluation
+repo_url: https://itom.bitbucket.io/
+docs_url: 
+license: 
+project_focus: 
+test_framework: 
+has_hardware_communication: 
+communication_types: 
+transport_layers: 
+has_procedures: 
+has_gui: 
+gui_technology: 
+has_unit_support: 
+unit_library: 
+instrument_categories: 
+remarks: 
+collected_by: 

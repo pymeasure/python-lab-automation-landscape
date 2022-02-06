@@ -1,0 +1,18 @@
+name: yaq
+description: Yet Another AcQuisition
+repo_url: https://gitlab.com/yaq
+docs_url: https://yaq.fyi
+license: LGPL-3.0
+project_focus: 
+test_framework: 
+has_hardware_communication: true
+communication_types: 
+transport_layers: 
+has_procedures: 
+has_gui: 
+gui_technology: 
+has_unit_support: 
+unit_library: 
+instrument_categories: 
+remarks: 
+collected_by: "@dominecf"

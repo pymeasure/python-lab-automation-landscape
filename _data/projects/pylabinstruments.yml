@@ -1,0 +1,18 @@
+name: pyLabInstruments
+description: wrapper around instruments controlled via usb or serial interface
+repo_url: https://github.com/MarkHedleyJones/pyLabInstruments
+docs_url: 
+license: N/A
+project_focus: Agilent 3320A + Tektronix TPS2024B
+test_framework: 
+has_hardware_communication: 
+communication_types: 
+transport_layers: 
+has_procedures: 
+has_gui: 
+gui_technology: 
+has_unit_support: 
+unit_library: 
+instrument_categories: 
+remarks: 
+collected_by: 

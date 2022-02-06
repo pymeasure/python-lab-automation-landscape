@@ -49,6 +49,8 @@ with open('converted_table.md', 'r', newline='') as infile:
             unit_lib = row['Units '].strip() if (convert_to_yaml_bool(row['Units ']) != 'false') else ''
             outfile.write('unit_library: ' + unit_lib + '\n')
             outfile.write('instrument_categories: ' + row['Abstract instrument classes '].strip() + '\n')
-            outfile.write('remarks: ' + row['Remarks '].strip() + '\n')
-            outfile.write('collected_by: ' + row['Collected by'].strip() + '\n')
+            remark = '"' + row['Remarks '].strip() + '"' if row['Remarks '].strip() else ''
+            outfile.write('remarks: ' + remark + '\n')
+            collected = '"' + row['Collected by'].strip() + '"' if row['Collected by'].strip() else ''
+            outfile.write('collected_by: ' + collected + '\n')
         # break

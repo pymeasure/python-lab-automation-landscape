@@ -1,0 +1,18 @@
+name: taurus-scada
+description: control and data acquisition CLIs and GUIs in scientific/industrial environments
+repo_url: https://github.com/taurus-org/taurus
+docs_url: 
+license: LGPL
+project_focus: 
+test_framework: 
+has_hardware_communication: true
+communication_types: 
+transport_layers: 
+has_procedures: 
+has_gui: true
+gui_technology: 
+has_unit_support: 
+unit_library: 
+instrument_categories: 
+remarks: 
+collected_by: "@bruyant"

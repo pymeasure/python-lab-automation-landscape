@@ -1,0 +1,18 @@
+name: ScopeFoundry
+description: platform for controlling custom laboratory experiments and visualizing scientific data
+repo_url: https://github.com/ScopeFoundry/ScopeFoundry
+docs_url: http://www.scopefoundry.org
+license: BSD 3-Clause
+project_focus: 
+test_framework: 
+has_hardware_communication: true
+communication_types: 
+transport_layers: 
+has_procedures: 
+has_gui: true
+gui_technology: 
+has_unit_support: 
+unit_library: 
+instrument_categories: 
+remarks: 
+collected_by: "@dominecf"

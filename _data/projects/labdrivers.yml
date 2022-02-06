@@ -1,0 +1,18 @@
+name: labdrivers
+description: Python package for controlling laboratory equipment (mostly with GPIB)
+repo_url: https://github.com/masonlab/labdrivers
+docs_url: https://labdrivers.readthedocs.org/
+license: MIT
+project_focus: 
+test_framework: pytest(nr n/a; just started writing)
+has_hardware_communication: true
+communication_types: 
+transport_layers: VISA, GPIB, TCP/IP
+has_procedures: INVALID
+has_gui: false
+gui_technology: none
+has_unit_support: false
+unit_library: 
+instrument_categories: n
+remarks: 
+collected_by: "@pbnjeff89"

@@ -1,0 +1,18 @@
+name: Pymeasure
+description: Scientific measurement library for instruments, experiments, and live-plotting
+repo_url: https://github.com/ralph-group/pymeasure
+docs_url: http://pymeasure.readthedocs.io/en/latest/
+license: MIT
+project_focus: 
+test_framework: pytest(62)
+has_hardware_communication: true
+communication_types: 
+transport_layers: Serial, GPIB-USB, VISA
+has_procedures: true
+has_gui: true
+gui_technology: Qt
+has_unit_support: false
+unit_library: 
+instrument_categories: 
+remarks: 
+collected_by: "@bilderbuchi"
