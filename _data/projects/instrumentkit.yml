@@ -5,7 +5,6 @@ docs_url: http://instrumentkit.readthedocs.org/en/latest/index.html
 license: AGPL-v3
 project_focus: Connection- and vendor-agnostic API for instruments
 test_framework: pytest
-has_hardware_communication: true
 communication_types: messagebased,...(?)
 transport_layers: Serial, GPIB-USB, sockets, VISA, unix files, usbtmc, vxi11 over ethernet
 has_procedures: false

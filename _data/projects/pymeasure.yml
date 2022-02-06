@@ -5,7 +5,6 @@ docs_url: http://pymeasure.readthedocs.io/en/latest/
 license: MIT
 project_focus: 
 test_framework: pytest
-has_hardware_communication: true
 communication_types: 
 transport_layers: Serial, GPIB-USB, VISA
 has_procedures: true

@@ -5,7 +5,6 @@ docs_url: http://nsls-ii.github.io/ophyd
 license: 
 project_focus: A hardware abstraction layer
 test_framework: pytest
-has_hardware_communication: 
 communication_types: 
 transport_layers: 
 has_procedures: 

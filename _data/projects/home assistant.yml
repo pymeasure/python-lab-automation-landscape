@@ -5,7 +5,6 @@ docs_url: https://www.home-assistant.io
 license: Apache License 2.0
 project_focus: non-scientific hardware
 test_framework: 
-has_hardware_communication: 
 communication_types: 
 transport_layers: 
 has_procedures: 

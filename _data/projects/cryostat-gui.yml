@@ -5,7 +5,6 @@ docs_url:
 license: MIT
 project_focus: 
 test_framework: 
-has_hardware_communication: true
 communication_types: 
 transport_layers: pyvisa (GPIB, serial)
 has_procedures: false

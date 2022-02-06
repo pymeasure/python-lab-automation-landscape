@@ -5,7 +5,6 @@ docs_url: https://instrumental-lib.readthedocs.io/en/stable/
 license: 
 project_focus: cameras, DAQs, oscilloscopes, spectrometers, and more
 test_framework: 
-has_hardware_communication: 
 communication_types: 
 transport_layers: VISA, serial, NiceLib/cffi, ...
 has_procedures: 
