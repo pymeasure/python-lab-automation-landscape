@@ -10,9 +10,9 @@ communication_types:
 transport_layers: VISA, serial, NiceLib/cffi, ...
 has_procedures: 
 has_gui: false
-gui_technology: none
+gui_technology: 
 has_unit_support: true
-unit_library: Yes (pint)
+unit_library: pint
 instrument_categories: 
 remarks: "Facets similar to lantz feats, nice object-oriented autodetection"
 collected_by: 

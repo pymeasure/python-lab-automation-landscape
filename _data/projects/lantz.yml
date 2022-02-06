@@ -12,7 +12,7 @@ has_procedures: false
 has_gui: true
 gui_technology: Qt
 has_unit_support: true
-unit_library: y (pint)
+unit_library: pint
 instrument_categories: 
 remarks: 
 collected_by: "@bilderbuchi"

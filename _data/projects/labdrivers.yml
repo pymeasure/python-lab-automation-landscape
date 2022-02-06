@@ -4,15 +4,15 @@ repo_url: https://github.com/masonlab/labdrivers
 docs_url: https://labdrivers.readthedocs.org/
 license: MIT
 project_focus: 
-test_framework: pytest(nr n/a; just started writing)
+test_framework: pytest
 has_hardware_communication: true
 communication_types: 
 transport_layers: VISA, GPIB, TCP/IP
-has_procedures: INVALID
+has_procedures: true
 has_gui: false
-gui_technology: none
+gui_technology: 
 has_unit_support: false
 unit_library: 
-instrument_categories: n
+instrument_categories: 
 remarks: 
 collected_by: "@pbnjeff89"

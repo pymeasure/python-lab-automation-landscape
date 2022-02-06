@@ -4,7 +4,7 @@ repo_url: https://github.com/pyvisa/pyvisa
 docs_url: https://pyvisa.readthedocs.io/en/stable/
 license: MIT
 project_focus: low-level library
-test_framework: 0
+test_framework: 
 has_hardware_communication: true
 communication_types: 
 transport_layers: 

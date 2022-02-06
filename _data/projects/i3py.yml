@@ -12,7 +12,7 @@ has_procedures:
 has_gui: false
 gui_technology: 
 has_unit_support: true
-unit_library: Yes (pint)
+unit_library: pint
 instrument_categories: 
-remarks: "evolved from lantz"
+remarks: "evolved from Lantz"
 collected_by: 

@@ -4,7 +4,7 @@ repo_url: https://www.github.com/Galvant/InstrumentKit
 docs_url: http://instrumentkit.readthedocs.org/en/latest/index.html
 license: AGPL-v3
 project_focus: Connection- and vendor-agnostic API for instruments
-test_framework: pytest(693)
+test_framework: pytest
 has_hardware_communication: true
 communication_types: messagebased,...(?)
 transport_layers: Serial, GPIB-USB, sockets, VISA, unix files, usbtmc, vxi11 over ethernet
@@ -12,7 +12,7 @@ has_procedures: false
 has_gui: false
 gui_technology: 
 has_unit_support: true
-unit_library: y(quantities, soon pint)
+unit_library: quantities (soon pint)
 instrument_categories: yes
 remarks: 
 collected_by: "@bilderbuchi"

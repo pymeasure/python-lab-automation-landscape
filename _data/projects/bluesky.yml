@@ -4,7 +4,7 @@ repo_url: https://github.com/NSLS-II/bluesky
 docs_url: http://nsls-ii.github.io/bluesky/
 license: 
 project_focus: end-to-end data acquisition and analysis solution that leverages data science libraries
-test_framework: pytest (400)
+test_framework: pytest
 has_hardware_communication: 
 communication_types: 
 transport_layers: 
