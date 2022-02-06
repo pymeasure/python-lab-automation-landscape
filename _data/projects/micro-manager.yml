@@ -1,6 +1,6 @@
 name: micro-manager
 description: GUI that communicates with microscope equipment through a device abstraction layer
-repo_url: https://github.com/micro-manager/
+repo_url: https://github.com/micro-manager/micro-manager
 docs_url: 
 license: BSD / LGPL
 project_focus: automated microscopes

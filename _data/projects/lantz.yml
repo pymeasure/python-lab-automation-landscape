@@ -1,6 +1,6 @@
 name: Lantz
 description: automation and instrumentation toolkit
-repo_url: https://github.com/lantzproject/lantz), [old repo](https://github.com/LabPy/lantz
+repo_url: https://github.com/lantzproject/lantz
 docs_url: https://lantz.readthedocs.io
 license: BSD-3?
 project_focus: 
@@ -14,5 +14,5 @@ gui_technology: Qt
 has_unit_support: true
 unit_library: pint
 instrument_categories: 
-remarks: 
+remarks: "[old repo](https://github.com/LabPy/lantz)"
 collected_by: "@bilderbuchi"

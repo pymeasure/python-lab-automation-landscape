@@ -1,6 +1,6 @@
 name: Pymeasure
 description: Scientific measurement library for instruments, experiments, and live-plotting
-repo_url: https://github.com/ralph-group/pymeasure
+repo_url: https://github.com/pymeasure/pymeasure
 docs_url: http://pymeasure.readthedocs.io/en/latest/
 license: MIT
 project_focus: 
