@@ -15,6 +15,16 @@
 <th>Version</th>
 <th>Project focus</th>
 <th>Test framework</th>
+<th>Communication types</th>
+<th>Transport layers</th>
+<th>Procedures?</th>
+<th>GUI?</th>
+<th>GUI library</th>
+<th>Units?</th>
+<th>Unit library</th>
+<th>Instrument categories?</th>
+<th>Remarks</th>
+<th>Collected by</th>
 </tr>
 </thead>
 <tbody>
@@ -48,6 +58,44 @@
 </td>
 <td>{{ project.project_focus }}</td>
 <td>{{ project.test_framework }}</td>
+<td>{{ project.communication_types }}</td>
+<td>{{ project.transport_layers }}</td>
+<td>{% if project.has_procedures == true %}
+    &#10004;
+    {% elsif project.has_procedures == false %}
+    &#10007;
+    {% else %}
+    
+    {% endif %}
+</td>
+<td>{% if project.has_gui == true %}
+    &#10004;
+    {% elsif project.has_gui == false %}
+    &#10007;
+    {% else %}
+    
+    {% endif %}
+</td>
+<td>{{ project.gui_technology }}</td>
+<td>{% if project.has_unit_support == true %}
+    &#10004;
+    {% elsif project.has_unit_support == false %}
+    &#10007;
+    {% else %}
+    
+    {% endif %}
+</td>
+<td>{{ project.unit_library }}</td>
+<td>{% if project.instrument_categories == true %}
+    &#10004;
+    {% elsif project.instrument_categories == false %}
+    &#10007;
+    {% else %}
+    
+    {% endif %}
+</td>
+<td>{{ project.remarks | markdownify }}</td>
+<td>{{ project.collected_by }}</td>
 </tr>
 {% endfor %}
 </tbody>
