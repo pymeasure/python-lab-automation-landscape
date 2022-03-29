@@ -1,4 +1,11 @@
-# Catalog
+---
+layout: page
+title: "Catalog"
+permalink: /catalog/
+---
+A structured overview over Python lab automation packages.
+
+Presentation improvements are WIP.
 
 <table>
 <!-- <colgroup>
