@@ -1,4 +1,4 @@
-# Generated table
+# Catalog
 
 <table>
 <!-- <colgroup>
