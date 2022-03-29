@@ -101,8 +101,4 @@
 </tbody>
 </table>
 
-# Overview table
-
-{% include_relative converted_table.md %}
-
 Note: The original version of the table lived at https://ethercalc.net/1anmq248ktu6
