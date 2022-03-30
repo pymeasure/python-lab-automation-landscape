@@ -59,8 +59,8 @@ Presentation improvements are WIP.
 </td>
 <!-- Version/release information -->
 <td markdown="span">{% if forge == "github" %}
-![Last release date](https://img.shields.io/{{forge}}/release-date/{{user}}/{{repo}})
-![Last release](https://img.shields.io/{{forge}}/v/release/{{user}}/{{repo}})
+![Last tag](https://img.shields.io/{{forge}}/v/tag/{{user}}/{{repo}})
+![Last (pre)release date](https://img.shields.io/{{forge}}/release-date-pre/{{user}}/{{repo}})
 {% endif %}
 </td>
 <td>{{ project.project_focus }}</td>
