@@ -5,4 +5,5 @@ type: dataset
 authors:
   - given-names: Christoph
     family-names: Buchner
+    affiliation: PyMeasure maintainers
     orcid: 'https://orcid.org/0000-0002-0553-2730'
