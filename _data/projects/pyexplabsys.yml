@@ -1,0 +1,17 @@
+name: PyExpLabSys
+description: This project contains various python code useful in experimental labs, such as equipment drivers, data logging and network data exchange components.
+repo_url: https://github.com/CINF/PyExpLabSys
+docs_url: https://pyexplabsys.readthedocs.io/
+license: GPL-3.0 License
+project_focus: 
+test_framework: 
+communication_types: 
+transport_layers: 
+has_procedures: 
+has_gui: 
+gui_technology: 
+has_unit_support: 
+unit_library: 
+instrument_categories: 
+remarks: 
+collected_by: 
