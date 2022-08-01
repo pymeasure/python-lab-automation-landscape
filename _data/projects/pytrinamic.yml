@@ -1,0 +1,17 @@
+name: PyTrinamic
+description: Python package for TRINAMIC motor cards
+repo_url: https://github.com/trinamic/PyTrinamic
+docs_url: 
+license: MIT
+project_focus: Python API for TINAMIC modules
+test_framework:
+communication_types: proprietary protocol
+transport_layers: USB, RS232, RS485, CAN, RTMI
+has_procedures: false
+has_gui: false
+gui_technology: 
+has_unit_support: false
+unit_library: 
+instrument_categories: yes
+remarks:
+collected_by: "@bmoneke"
