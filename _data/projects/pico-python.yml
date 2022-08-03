@@ -1,0 +1,17 @@
+name: pico-python
+description: Python library for PicoTech Picoscope oscilloscopes
+repo_url: https://github.com/colinoflynn/pico-python
+docs_url: 
+license: MIT
+project_focus: Python wrapper for the Picoscope dll
+test_framework: 
+communication_types: DLL
+transport_layers: USB
+has_procedures: false
+has_gui: false
+gui_technology: 
+has_unit_support: false
+unit_library: 
+instrument_categories: no
+remarks: Requires the driver of the manufacturer, available for Windows, Mac, Linux
+collected_by: "@bmoneke"
