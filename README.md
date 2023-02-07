@@ -16,3 +16,5 @@ Over time this became more fragile, impossible to version, and hard to get the d
 Issues/pull requests with additional/updated information will be welcome, but this is still very much a work in progress to get "finished".
 
 The table detailing the shape of the Python lab automation landscape can be found in the [Catalog]({{ site.baseurl }}{% link table_page.md %}).
+
+If you want to contribute, see [CONTRIBUTING.md](https://github.com/pymeasure/python-lab-automation-landscape/blob/gh-pages/CONTRIBUTING.md).
