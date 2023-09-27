@@ -12,6 +12,6 @@ has_gui:
 gui_technology: 
 has_unit_support: y
 unit_library: 
-instrument_categories: RF, communications, electronics, networking, software, general purpose lab tools
+instrument_categories: 23 instruments (RF, communications, electronics, networking, software, general purpose lab tools)
 remarks: 
 collected_by: Dan Kuester <daniel.kuester@nist.gov>
