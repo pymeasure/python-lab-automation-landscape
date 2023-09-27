@@ -1,0 +1,17 @@
+name: ssmdevices
+description: a library of python instrument driver wrappers implemented in labbench (mostly for RF and communication testing)
+repo_url: https://github.com/usnistgov/ssmdevices
+docs_url: https://pages.nist.gov/ssmdevices
+license: NIST: https://github.com/usnistgov/ssmdevices/blob/master/LICENSE.md
+project_focus: Library of instrument and lab equipment driver wrappers, mostly dealing with RF and communication
+test_framework: pytest
+communication_types: visa, telnet, subprocesses, custom API
+transport_layers: visa/ivi (via pyvisa), serial, usbhid, telnet
+has_procedures: 
+has_gui: 
+gui_technology: 
+has_unit_support: y
+unit_library: 
+instrument_categories: RF, communications, electronics, networking, software, general purpose lab tools
+remarks: 
+collected_by: Dan Kuester <daniel.kuester@nist.gov>
