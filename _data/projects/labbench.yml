@@ -2,7 +2,7 @@ name: labbench
 description: base library for python laboratory automation to simplify the process of developing an experimental procedure into clear, concise, explainable, and reusable code
 repo_url: https://github.com/usnistgov/labbench
 docs_url: https://pages.nist.gov/labbench
-license: NIST: https://github.com/usnistgov/labbench/blob/master/LICENSE.md
+license: NIST (https://github.com/usnistgov/labbench/blob/master/LICENSE.md)
 project_focus: Supporting library for development of instrument libraries and automation scripts
 test_framework: pytest
 communication_types: visa, telnet, subprocesses, custom
