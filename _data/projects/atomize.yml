@@ -1,0 +1,17 @@
+name: Atomize
+description: A modular open source software for working with scientific devices and combining them into spectrometer. 
+repo_url: https://github.com/Anatoly1010/Atomize
+docs_url: 
+license: MIT
+project_focus: working with scientific devices and combining them into spectrometer
+test_framework: 
+communication_types: 
+transport_layers: 
+has_procedures: 
+has_gui: 
+gui_technology: 
+has_unit_support: 
+unit_library: 
+instrument_categories: (many)
+remarks: 
+collected_by: @FilipDominec
