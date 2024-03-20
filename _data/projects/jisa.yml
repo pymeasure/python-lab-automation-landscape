@@ -1,0 +1,17 @@
+name: JISA 
+description: Standardised instrument control, data handling and simple GUI creation library for making experiment control programs. 
+repo_url: https://github.com/OE-FET/JISA
+docs_url: 
+license: AGPL-3.0
+project_focus: 
+test_framework: n/a
+communication_types: 
+transport_layers: 
+has_procedures: 
+has_gui: yes
+gui_technology: 
+has_unit_support: 
+unit_library: 
+instrument_categories: voltmeter, sourcemeter, temperature, lock-in etc.
+remarks: intended as LabView replacement
+collected_by: FilipDominec
