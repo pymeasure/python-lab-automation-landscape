@@ -14,4 +14,4 @@ has_unit_support:
 unit_library: 
 instrument_categories: (many)
 remarks: 
-collected_by: @FilipDominec
+collected_by: "@FilipDominec"
