@@ -1,0 +1,17 @@
+name: PyLECO
+description: Python implementation of the Laboratory Experiment COntrol (LECO) protocol 
+repo_url: https://github.com/pymeasure/pyleco
+docs_url: https://github.com/pymeasure/pyleco
+license: MIT
+project_focus: Connect different parts of a measurement setup (drivers, GUI, data acquisition)
+test_framework: pytest
+communication_types: JSON
+transport_layers: TCP
+has_procedures: 
+has_gui: 
+gui_technology: 
+has_unit_support: 
+unit_library: 
+instrument_categories: 
+remarks: [LECO](https://github.com/pymeasure/leco-protocol) is still under development, but code is stable.
+collected_by: "@BenediktBurger"
