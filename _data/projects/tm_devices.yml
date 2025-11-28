@@ -1,0 +1,17 @@
+name: TM Devices
+description: Tectronix Test & Measurement Device Management
+repo_url: https://github.com/tektronix/tm_devices
+docs_url: https://tm-devices.readthedocs.io/stable/
+license: Apache 2.0
+project_focus: Tectronix devices
+test_framework: pytest
+communication_types: visa
+transport_layers: 
+has_procedures: 
+has_gui: 
+gui_technology: 
+has_unit_support: 
+unit_library: 
+instrument_categories: 
+remarks: By Tectronix itself
+collected_by: "@BenediktBurger"
