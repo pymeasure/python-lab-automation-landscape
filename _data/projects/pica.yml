@@ -1,0 +1,17 @@
+name: PICA
+description: GUI suite for automated transport, dielectric and temperature-dependent measurements (I-V, R-T, C-V, impedance) on lab instruments
+repo_url: https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation
+docs_url: https://pica-python-instrument-control-and-automation.readthedocs.io/en/latest/
+license: MIT
+project_focus: Ready-to-run measurement GUIs for condensed-matter / materials labs
+test_framework: pytest
+communication_types: SCPI, vendor ASCII
+transport_layers: GPIB, Serial, TCP, VISA
+has_procedures: true
+has_gui: true
+gui_technology: Tkinter
+has_unit_support: false
+unit_library: 
+instrument_categories: SMUs, electrometers, LCR meters, impedance analyzers, temperature controllers, vacuum gauges
+remarks: Listed by the author. Zenodo DOI 10.5281/zenodo.18377216
+collected_by: "@prathameshnium"
